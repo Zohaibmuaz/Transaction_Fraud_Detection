@@ -16,20 +16,29 @@ Training for 5 epochs with a batch size of 512.
 Evaluating accuracy and identifying anomalies.
 ## Results
 Accuracy: (Add after running)
+
 Anomalies Detected: (Add after running)
-How to Run
+
+## How to Run
+
 Install dependencies:
 bash
 
 
 pip install -r requirements.txt
+
 Run the script:
 bash
 
 
 python fraud_detection_nn.py
-Dependencies
+
+## Dependencies
+
 numpy
+
 pandas
+
 scikit-learn
+
 tensorflow
